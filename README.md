@@ -48,3 +48,11 @@ After evaluating each model using cross-validation we got different results.
 - Model comparison using average accuracy.
 
 ⭐️ If you found this helpful, give it a star! ⭐️
+
+📬 Contact:
+
+Feel free to reach out if you want to collaborate or have suggestions:
+
+- Name: Subhaan Khokhar
+- Email: mskproductions2002@gmail.com
+- LinkedIn: https://www.linkedin.com/in/muhammad-subhan-khokhar/
